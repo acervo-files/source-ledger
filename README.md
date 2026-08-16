@@ -45,6 +45,7 @@ A source has to pass all six. Several have not.
 | The National Archives — MoD UFO files (DEFE 24, DEFE 31) | United Kingdom | Paused |
 | GEIPAN — CNES | France | Declined (case files) · Under review (catalogue) |
 | Library and Archives Canada | Canada | Declined |
+| Transport Canada — Civil Aviation Daily Occurrence Reporting System (CADORS) | Canada | Declined (as a UAP source) · Under review (as an official-records source) |
 
 ### Carried
 
@@ -145,6 +146,68 @@ people named in them.
 
 Worth recording: the access channel here was the cleanest of any
 difficult source we have assessed. The refusal was purely legal.
+
+**Transport Canada — Civil Aviation Daily Occurrence Reporting System
+(CADORS)** — Canada.
+
+We assessed CADORS, Transport Canada's register of civil aviation
+occurrences, because among the occurrences it records are sightings of
+objects that were not identified.
+
+We want to be clear about why we said no, because it is not our usual
+reason. The licensing here is excellent. Transport Canada publishes
+CADORS as open data under the Open Government Licence – Canada,
+refreshed daily, and that licence expressly permits commercial use. It
+is the most permissive instrument we have encountered outside the
+United States, and on the question that has stopped us elsewhere — may
+we lawfully reuse this — the answer was largely yes.
+
+We declined on fit. This is a database of aviation safety occurrences,
+and the portion concerning unidentified objects is very small.
+Transport Canada itself explains that the label it uses "should not be
+interpreted to mean something of extraterrestrial origin" — the same
+category covers weather balloons, meteors, drones, kites and birds.
+When we read what the records actually say, the overwhelming majority
+describe an object that was identified. What remained was a residue of
+brief entries, on the order of one to seven a year across a quarter of
+a century, each a few sentences long. Volume alone would not have
+stopped us — we already carry sources of sixteen and fourteen records.
+The difference is that those are documents, and these are sentences:
+one of those sixteen files carries more text than this entire category.
+
+Two further things weighed against it. These are short operational
+notes rather than documents, and this archive exists to hold documents.
+And CADORS is a living system: Transport Canada describes its contents
+as preliminary and subject to change, and points to a different body as
+the authoritative source. We are built to hold stable material
+faithfully, and we would rather not hold a moving official record
+badly.
+
+We also could not establish with certainty that the descriptive text —
+the part that would have made this worth having — falls inside the open
+licence, as distinct from the structured data that plainly does. Where
+we cannot say with evidence that we are in the clear, we do not
+proceed, even when we could.
+
+None of this is a criticism of CADORS. It is a well-run safety system
+doing exactly what it was built to do, published openly and maintained
+daily. It is simply not a record of unidentified phenomena, whatever
+its category label suggests.
+
+We are keeping the wider question open. Our decision here is about
+CADORS as a source of UAP material, and that is the only thing we
+assessed. As a body of official aviation records it is openly licensed
+and well maintained, and that is a different question we have not yet
+put to ourselves. We would rather say so than let a narrow "no" read as
+a broad one.
+
+> Open Government Licence – Canada; Copyright Act, R.S.C. 1985, c. C-42,
+> s. 12; Personal Information Protection and Electronic Documents Act,
+> S.C. 2000, c. 5.
+
+If the open release later covers the descriptive text explicitly, or if
+Canada establishes the dedicated public reporting service its Chief
+Science Advisor has recommended, we would look again.
 
 ## Legal instruments referenced
 
